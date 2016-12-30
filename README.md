@@ -1,8 +1,4 @@
-# tileserver-gl-light
-
-```
-INFO: The source code is now part of the official TileServer GL repo!
-```
+# The source code is now part of the original TileServer GL repo: https://github.com/klokantech/tileserver-gl
 
 A light variant of [tileserver-gl](https://github.com/klokantech/tileserver-gl) for serving MBTiles with
 [predefined Mapbox GL styles](https://github.com/klokantech/tileserver-gl-styles). Built to support serving vector tiles from [OSM2VectorTiles](http://osm2vectortiles.org/) to modern client.
